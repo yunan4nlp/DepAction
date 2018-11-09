@@ -1,0 +1,1 @@
+add_executable(getDepAcitonPos main.cpp)
